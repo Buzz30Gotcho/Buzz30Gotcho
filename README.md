@@ -3,7 +3,7 @@
 <p align="center">
   <b>Développeur Full-Stack</b> · Étudiant en Master 2 (Expert en développement logiciel) à Ynov Campus<br/>
   🔭 À la recherche d'une <b>alternance de développeur full-stack</b> à partir de janvier 2027<br/>
-  📍 Montpellier · Rythme 2 semaines entreprise / 1 semaine école
+  📍 Montpellier, Toulouse , Paris · Rythme 2 semaines entreprise / 1 semaine école
 </p>
 
 ---
