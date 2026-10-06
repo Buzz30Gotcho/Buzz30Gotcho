@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Frédéric 👋</h1>
+<h1 align="center">Salut, moi c'est Frédéric Makha SAR👋</h1>
 
 <p align="center">
   <b>Développeur Full-Stack</b> · Étudiant en Master 2 (Expert en développement logiciel) à Ynov Campus<br/>
